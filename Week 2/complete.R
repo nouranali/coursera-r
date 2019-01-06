@@ -6,7 +6,9 @@ complete <- function(directory, id) {
   ## 'id' is an integer vector indicating the monitor ID numbers to be
   ## used
   
-  #Return a data frame on the following form:
+  ## the 'complete' function returns a data.frame
+  ## with the following pattern
+  ##
   ## id nobs
   ## 1  117
   ## 2 1041
