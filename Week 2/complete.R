@@ -16,9 +16,8 @@ complete <- function(directory, id) {
   ## where 'id' is the monitor's id number
   ## and 'nobs' is the number of rows with complete information
   
-  directory <- paste(directory, "/", sep = "")
   all_files <- list.files(directory)
-  file_paths <- paste(directory, all_files, sep = "")
+  file_paths <- paste(directory, all_files, sep = "/")
   
   complete <- data.frame()
   id_aux <- 1
@@ -32,5 +31,5 @@ complete <- function(directory, id) {
   }
   
   colnames(complete) <- c("id", "nobs")
-  print(complete)
+  complete
 }

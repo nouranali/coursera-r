@@ -14,9 +14,8 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
   ## across all monitors list in the 'id' vector (ignoring NA values)
   ## note: the result is not to be rounded.
   
-  directory <- paste(directory, "/", sep = "")
   all_files <- list.files(directory)
-  file_paths <- paste(directory, all_files, sep = "")
+  file_paths <- paste(directory, all_files, sep = "/")
   
   mean_vector <- numeric()
   
