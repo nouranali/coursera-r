@@ -13,7 +13,7 @@ Objectives:
 * Describe the explicit coercion feature of R
 * Remove missing (NA) values from a vector
 
-### Grade given: 9.5/10.0
+#### Quiz grade: 10.0/10.0
 
 ## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2018 - ???)
 This week's lectures cover key topics like control structures and functions.
@@ -27,8 +27,18 @@ Objectives:
 * Describe the difference between lexical scoping and dynamic scoping rules
 * Convert a character string representing a date/time into an R datetime object.
 
+#### Quiz grade: 10.0/10.0
+#### Programming assignment grade: 10.0/10.0
+
 ## Week 3: Loop functions, debugging tools
-[TODO]
+
+This week's lectures cover loop functions and the debugging tools in R.
+* Define an anonymous function and describe its use in loop functions
+* Describe how to start the R debugger for an arbitrary R function
+* Describe what the traceback() function does and what is the function call stack
+
+#### Quiz grade: ???/10.0
+#### Programming assignment grade: ???/10.0
 
 ## Week 4: Simulation, code profiling
 [TODO]
