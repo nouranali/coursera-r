@@ -15,7 +15,7 @@ Objectives:
 
 #### Quiz grade: 10.0/10.0
 
-## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2018 - ???)
+## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2018 - 06/01/2018)
 This week's lectures cover key topics like control structures and functions.
 
 Objectives:
@@ -30,7 +30,7 @@ Objectives:
 #### Quiz grade: 10.0/10.0
 #### Programming assignment grade: 10.0/10.0
 
-## Week 3: Loop functions, debugging tools
+## Week 3: Loop functions, debugging tools (??? - ???)
 
 This week's lectures cover loop functions and the debugging tools in R.
 * Define an anonymous function and describe its use in loop functions
