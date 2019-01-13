@@ -37,7 +37,7 @@ This week's lectures cover loop functions and the debugging tools in R.
 * Describe how to start the R debugger for an arbitrary R function
 * Describe what the traceback() function does and what is the function call stack
 
-#### Quiz grade: ???/10.0
+#### Quiz grade: 10.0/10.0
 #### Programming assignment grade: ???/10.0
 
 ## Week 4: Simulation, code profiling
