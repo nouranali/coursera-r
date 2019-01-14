@@ -1,6 +1,6 @@
 # R Programming @ Coursera
 
-## Week 1: Overview of R, R data types and objects, reading and writing data (05/01/2018 - 05/01/2018)
+## Week 1: Overview of R, R data types and objects, reading and writing data (05/01/2019 - 05/01/2019)
 This week covers the basics to get started on R. The Background Materials lesson contains information about course mechanics and some videos on installing R. The Week 1 videos cover the history of R and S, go over the basic data types in R, and describe the functions for reading and writing data.
 
 Objectives:
@@ -15,7 +15,7 @@ Objectives:
 
 #### Quiz grade: 10.0/10.0
 
-## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2018 - 06/01/2018)
+## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2019 - 06/01/2019)
 This week's lectures cover key topics like control structures and functions.
 
 Objectives:
@@ -30,7 +30,7 @@ Objectives:
 #### Quiz grade: 10.0/10.0
 #### Programming assignment grade: 10.0/10.0
 
-## Week 3: Loop functions, debugging tools (??? - ???)
+## Week 3: Loop functions, debugging tools (13/01/2019 - 13/01/2019)
 
 This week's lectures cover loop functions and the debugging tools in R.
 * Define an anonymous function and describe its use in loop functions
@@ -41,4 +41,12 @@ This week's lectures cover loop functions and the debugging tools in R.
 #### Programming assignment grade: ???/10.0
 
 ## Week 4: Simulation, code profiling
-[TODO]
+
+This week's lectures cover how to simulate data in R and how to use the profiler in R, which lets you collect detailed information on how your R functions are running and to identify bottlenecks that can be addressed, as well as the str function.
+* Call the str function on an arbitrary R object
+* Describe the difference between the "by.self" and "by.total" output produced by the R profiler
+* Simulate a random normal variable with an arbitrary mean and standard deviation
+* Simulate data from a normal linear model
+
+#### Quiz grade: ???/10.0
+#### Programming assignment grade: ???/10.0
