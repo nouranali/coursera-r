@@ -42,7 +42,7 @@ This week's lectures cover loop functions and the debugging tools in R.
 
 ## Week 4: Simulation, code profiling
 
-This week's lectures cover how to simulate data in R and how to use the profiler in R, which lets you collect detailed information on how your R functions are running and to identify bottlenecks that can be addressed, as well as the str function.
+This week's lectures cover how to simulate data in R, how to use the profiler in R, which lets you collect detailed information on how your R functions are running and to identify bottlenecks that can be addressed, as well as how to use the str function.
 * Call the str function on an arbitrary R object
 * Describe the difference between the "by.self" and "by.total" output produced by the R profiler
 * Simulate a random normal variable with an arbitrary mean and standard deviation
