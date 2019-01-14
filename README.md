@@ -1,5 +1,7 @@
 # R Programming @ Coursera
 
+This is the second course in the Johns Hopkins University's Data Science Specialization program.
+
 ## Week 1: Overview of R, R data types and objects, reading and writing data (05/01/2019 - 05/01/2019)
 This week covers the basics to get started on R. The Background Materials lesson contains information about course mechanics and some videos on installing R. The Week 1 videos cover the history of R and S, go over the basic data types in R, and describe the functions for reading and writing data.
 
