@@ -40,7 +40,7 @@ This week's lectures cover loop functions and the debugging tools in R.
 #### Quiz grade: 10.0/10.0
 #### Programming assignment grade: ???/10.0
 
-## Week 4: Simulation, code profiling
+## Week 4: Simulation, code profiling (??? - ???)
 
 This week's lectures cover how to simulate data in R, how to use the profiler in R, which lets you collect detailed information on how your R functions are running and to identify bottlenecks that can be addressed, as well as how to use the str function.
 * Call the str function on an arbitrary R object
