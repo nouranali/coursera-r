@@ -1,6 +1,6 @@
 
-## The makeCacheMatrix function receives a matrix object as a parameter and constroys a special matrix object that can 
-## save a matrix and it's respective inverse.
+## The makeCacheMatrix function receives a matrix object as a parameter and builds a special matrix object that can 
+## save a matrix and its respective inverse.
 ##
 ## This special object is a list of 4 functions:
 ## 1. set(y) -> Receives a matrix as a parameter and saves it inside the object.
