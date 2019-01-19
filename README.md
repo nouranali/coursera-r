@@ -2,7 +2,7 @@
 
 This is the second course in the Johns Hopkins University's Data Science Specialization program.
 
-## Week 1: Overview of R, R data types and objects, reading and writing data (05/01/2019 - 05/01/2019)
+## Week 1: Overview of R, R data types and objects, reading and writing data (05/01/2019)
 This week covers the basics to get started on R. The Background Materials lesson contains information about course mechanics and some videos on installing R. The Week 1 videos cover the history of R and S, go over the basic data types in R, and describe the functions for reading and writing data.
 
 Objectives:
@@ -17,7 +17,7 @@ Objectives:
 
 #### Quiz grade: 10.0/10.0
 
-## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2019 - 06/01/2019)
+## Week 2: Control structures, functions, scoping rules, dates and times (06/01/2019)
 This week's lectures cover key topics like control structures and functions.
 
 Objectives:
@@ -32,7 +32,7 @@ Objectives:
 #### Quiz grade: 10.0/10.0
 #### Programming assignment grade: 10.0/10.0
 
-## Week 3: Loop functions, debugging tools (13/01/2019 - 13/01/2019)
+## Week 3: Loop functions, debugging tools (13/01/2019)
 
 This week's lectures cover loop functions and the debugging tools in R.
 * Define an anonymous function and describe its use in loop functions
