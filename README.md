@@ -50,5 +50,5 @@ This week's lectures cover how to simulate data in R, how to use the profiler in
 * Simulate a random normal variable with an arbitrary mean and standard deviation
 * Simulate data from a normal linear model
 
-#### Quiz grade: ???/10.0
-#### Programming assignment grade: ???/10.0
+#### Quiz grade: 10.0/10.0
+#### Programming assignment grade: 10.0/10.0
